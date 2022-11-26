@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/polina-belyakaeva/hexlet-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/polina-belyakaeva/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/polina-belyakaeva/hexlet-js#readme",
+  "description": ""
+}
