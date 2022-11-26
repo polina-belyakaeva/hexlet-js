@@ -16,5 +16,8 @@
     "url": "https://github.com/polina-belyakaeva/hexlet-js/issues"
   },
   "homepage": "https://github.com/polina-belyakaeva/hexlet-js#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
